@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GeekGirlDee/learn-codeceptjs#readme",
   "devDependencies": {
-    "codeceptjs": "^2.6.5",
+    "codeceptjs": "^3.0.0",
     "puppeteer": "^3.1.0"
   }
 }
